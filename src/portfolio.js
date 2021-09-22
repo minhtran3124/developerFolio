@@ -115,7 +115,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Science and Education",
-      logo: require("./assets/images/ued-logo.png"),
+      logo: require("./assets/images/ued-logo.jpeg"),
       subHeader: "Bachelor of Information Technology",
       duration: "September 2010 - April 2014",
       // desc: "Participated in the research of XXX and published 3 papers.",
